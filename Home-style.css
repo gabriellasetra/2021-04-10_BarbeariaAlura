@@ -1,0 +1,55 @@
+/** As cores em hexadecimal são lidas em 6 caractres,
+sendo os dois primeiros para ler o vermelho, os dois seguintes para ler o verde, e os dois últimos para ler o azul**/
+
+body{
+    
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal {
+    background: tan;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+p {
+    text-align: center
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong{
+    color: saddlebrown;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: white;
+    padding: 20px;
+}
+
+ ul{
+    display: inline-block ;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagem-beneficios {
+    width: 50%;
+}
